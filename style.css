@@ -1,0 +1,133 @@
+.container-1{
+    display: flex;
+
+}
+.container-1 li{
+    list-style: none;
+}
+#mmi{
+    margin-left: 176px;
+}
+.mmii {
+    margin: auto 27px;
+  }
+  .inner-layer {
+    display: inline-flex;
+    margin-left: 55%;
+  }
+  .btn{
+    outline: none;
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+    padding: 13px 16px;
+  }
+  .btn{
+    font-weight: bold;
+    font-size: 15px;
+  }
+  .content {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 462px;
+  }
+  .content {
+    margin-left: 62px;
+  }
+  .image {
+    float: right;
+    margin-top: 42px;
+    margin-right: 166px;
+  }
+  .image img{
+width: 225px ;
+  }
+  #headaer-id{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+  }
+  .bor-content {
+    margin-top: 245px;
+    /* border: 2px solid; */
+    display: block;
+    width: 900px;
+    /* box-sizing: border-box; */
+    /* justify-content: ; */
+    text-align: justify;
+    margin-left: 64px;
+    /* accent-color: ; */
+  }
+  .inner-about{
+    border-left: 5px solid blueviolet;
+    padding-left: 6px;
+  }
+  .project-section {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 63px;
+  }
+   .item-pro {
+    border:none;
+    box-sizing: border-box;
+    display: block;
+    width: 31%;
+
+    /* margin-left: 187px; */
+  } 
+  .main-product-container{
+    margin-top: 120px;
+  }
+.item-product{
+    margin-left: 1px;
+}
+.item-product-2 {
+    margin-left: 348px;
+  }
+  #img-pro{
+    width: 394px;
+  }
+  .header-product{
+    margin-left: 63px;
+  }
+  #pro-para {
+    margin-left: 8px;
+  }
+  #sub-header-pro{
+    text-transform: uppercase;
+    margin-left: 8px;
+    
+  }
+  .smae-btn{
+    margin-left: 6px;
+    background-color: blueviolet;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    padding: 6px 8px;  
+}
+.nxt-pro-buttun {
+    margin: 23px 588px;
+  }
+  #mmi-out-pro-btn {
+    text-align: center;
+    /* padding-left: 100px; */
+    background-color: blueviolet;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    outline: none;
+    border: none;
+    padding: 20px 56px;
+}
+.images-last-sec{
+    display: block;
+    
+
+}
+.item-same-last {
+    margin-top: 50px;
+    display: inline-block;
+    width: 309px;
+  }
